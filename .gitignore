@@ -1,0 +1,14 @@
+/OBJ
+*.obj
+*.dep
+*.o
+*.swp
+TAGS*
+*.hdc
+*.bak
+*.uvproj
+*.uvopt
+*.lst
+*.map
+*.d
+*.crf
